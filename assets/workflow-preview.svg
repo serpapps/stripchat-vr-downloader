@@ -1,0 +1,26 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="24" fill="#07111B"/>
+  <rect x="24" y="24" width="1152" height="372" rx="20" fill="#102131" stroke="#06B6D4"/>
+  <text x="60" y="84" fill="#ECFEFF" font-family="Arial, sans-serif" font-size="34" font-weight="700">StripchatVR Downloader</text>
+  <text x="60" y="118" fill="#A5F3FC" font-family="Arial, sans-serif" font-size="18">Capture live VR sessions and save playback-friendly MP4 files</text>
+  <rect x="60" y="160" width="300" height="180" rx="18" fill="#153249"/>
+  <rect x="450" y="160" width="300" height="180" rx="18" fill="#153249"/>
+  <rect x="840" y="160" width="300" height="180" rx="18" fill="#153249"/>
+  <circle cx="112" cy="208" r="24" fill="#22D3EE"/>
+  <text x="104" y="216" fill="#083344" font-family="Arial, sans-serif" font-size="18" font-weight="700">1</text>
+  <circle cx="502" cy="208" r="24" fill="#A855F7"/>
+  <text x="494" y="216" fill="#2E1065" font-family="Arial, sans-serif" font-size="18" font-weight="700">2</text>
+  <circle cx="892" cy="208" r="24" fill="#22C55E"/>
+  <text x="884" y="216" fill="#052E16" font-family="Arial, sans-serif" font-size="18" font-weight="700">3</text>
+  <text x="150" y="214" fill="#ECFEFF" font-family="Arial, sans-serif" font-size="26" font-weight="700">Open the VR room</text>
+  <text x="150" y="248" fill="#CFFAFE" font-family="Arial, sans-serif" font-size="18">Start playback so the</text>
+  <text x="150" y="274" fill="#CFFAFE" font-family="Arial, sans-serif" font-size="18">extension can detect the stream.</text>
+  <text x="540" y="214" fill="#ECFEFF" font-family="Arial, sans-serif" font-size="26" font-weight="700">Choose your stream</text>
+  <text x="540" y="248" fill="#CFFAFE" font-family="Arial, sans-serif" font-size="18">Select the quality and keep</text>
+  <text x="540" y="274" fill="#CFFAFE" font-family="Arial, sans-serif" font-size="18">VR-friendly details when available.</text>
+  <text x="930" y="214" fill="#ECFEFF" font-family="Arial, sans-serif" font-size="26" font-weight="700">Save for playback</text>
+  <text x="930" y="248" fill="#CFFAFE" font-family="Arial, sans-serif" font-size="18">Export an MP4 you can keep</text>
+  <text x="930" y="274" fill="#CFFAFE" font-family="Arial, sans-serif" font-size="18">for local viewing later.</text>
+  <path d="M372 250H438" stroke="#06B6D4" stroke-width="6" stroke-linecap="round"/>
+  <path d="M762 250H828" stroke="#06B6D4" stroke-width="6" stroke-linecap="round"/>
+</svg>

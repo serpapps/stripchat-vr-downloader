@@ -1,85 +1,171 @@
-# SERP StripchatVR Downloader
+# StripchatVR Downloader (Browser Extension)
 
-**Record Stripchat VR live streams — capture in real time, download as MP4.**
+> Record Stripchat VR live streams and download saved VR videos as MP4 with playback-friendly metadata preserved where available.
 
-SERP StripchatVR Downloader is a browser extension built specifically for saving live VR streams from Stripchat. Visit any model page, hit Start, and the extension records the stream as it happens. When you stop, you get a standard MP4 file with VR details preserved in the filename. Includes 3 free downloads to try before you buy.
+StripchatVR Downloader is a browser extension built for immersive video workflows. It helps you keep Stripchat VR live sessions and saved recordings available offline, while preserving useful VR playback details when the source exposes them. The result is a simpler browser-based path from live room to local MP4 file.
 
-**Product page:** [https://serp.ly/stripchat-vr-video-downloader](https://serp.ly/stripchat-vr-video-downloader)<br>
-**Help center:** [https://help.serp.co/en/](https://help.serp.co/en/)<br>
-**Latest release:** [https://github.com/serpapps/stripchat-vr-video-downloader/releases/latest](https://github.com/serpapps/stripchat-vr-video-downloader/releases/latest)
+- Record Stripchat VR live sessions before they disappear
+- Download saved VR recordings from supported model pages
+- Preserve useful VR playback metadata when the source provides it
+- Choose from the stream qualities exposed on the page
+- Save MP4 files for easier playback on standard players and compatible VR setups
 
-## Why SERP StripchatVR Downloader
+## Links
 
-Live VR streams on Stripchat are temporary -- once the broadcast ends, the content is gone. Standard download tools and right-click saving do not work with Stripchat's streaming setup, and generic extensions miss the VR metadata entirely. SERP StripchatVR Downloader was designed for this exact purpose: reliable, real-time capture of Stripchat VR streams with full VR camera information retained.
+- 🚀 Get it here: [StripchatVR Downloader](https://serp.ly/stripchat-vr-video-downloader)
+- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/stripchat-vr-downloader/releases/latest)
+- ❓ Help center: [SERP Help](https://help.serp.co/en/)
+- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/stripchat-vr-downloader/issues)
+- 💡 Request features: [Feature Requests](https://github.com/serpapps/stripchat-vr-downloader/issues)
 
-## Key features
+## Preview
 
-- **Real-time live stream recording** — Start and stop capture at any moment during a live broadcast
-- **VR metadata preserved** — Stereo layout, frame format, and viewing angle saved in the filename for proper VR playback
-- **On-player download button** — Appears directly on the video player for one-click access
-- **Quality selector** — Choose from all available resolutions before recording begins
-- **Live progress tracking** — See segment count and elapsed time while capture is running
-- **Right-click context menu** — Start a capture without opening any popups
-- **Built-in download manager** — Progress bars, speed display, and cancel controls for every recording
-- **Works on recorded content too** — Download VOD/recorded videos in addition to live streams
+![StripchatVR Downloader workflow preview](assets/workflow-preview.svg)
 
-## How it works
+## Table of Contents
 
-1. **Install** — Add SERP StripchatVR Downloader to your browser from the product page or GitHub releases.
-2. **Browse** — Go to Stripchat VR and open any live model page.
-3. **Capture** — Click the player download button, use the popup, or right-click the page. Pick your quality and press Start.
-4. **Save** — Click Stop when done. Your video saves as MP4 with VR metadata in the filename.
+- [Why StripchatVR Downloader](#why-stripchatvr-downloader)
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Step-by-Step Tutorial: How to Download Videos from StripchatVR](#step-by-step-tutorial-how-to-download-videos-from-stripchatvr)
+- [Supported Formats](#supported-formats)
+- [Who It's For](#who-its-for)
+- [Common Use Cases](#common-use-cases)
+- [Troubleshooting](#troubleshooting)
+- [Trial & Access](#trial--access)
+- [Installation Instructions](#installation-instructions)
+- [FAQ](#faq)
+- [Notes](#notes)
+- [About StripchatVR](#about-stripchatvr)
 
-## Supported formats
+## Why StripchatVR Downloader
 
-- **Output:** MP4 — plays on any device, media player, or VR headset
-- **Quality:** All resolutions from the source stream, sorted highest to lowest
-- **VR info:** Stereo layout, frame format, and viewing angle included in the filename
+VR platforms are harder to save from than ordinary video sites. Live sessions end, generic tools often miss the stream entirely, and even successful captures can be frustrating later if the useful VR playback details are missing once the file leaves the platform.
 
-## Who it's for
+StripchatVR Downloader is built around that problem. It focuses on Stripchat VR pages, detects supported live and saved VR media, and exports local MP4 files while preserving VR-related playback details when they are available from the source.
 
-- **VR headset owners** building a local library of VR content for offline viewing
-- **Stripchat VR users** who want to save favorite live performances before they disappear
-- **Non-technical users** who need a simple, browser-based solution with no extra software
+## Features
 
-## Common use cases
+- Live VR stream recording with start and stop controls
+- Saved recording downloads from supported Stripchat VR pages
+- VR metadata preservation when the source exposes compatible details
+- Quality selection for available stream variants
+- In-page controls on supported player pages
+- Popup workflow for starting and managing captures
+- Right-click access for a faster browser workflow
+- MP4 output for easier offline viewing and transfer
+- Automatic saving into a dedicated STRIPCHATVR folder
+- Cross-browser support for Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex
 
-- Record a live VR stream for offline playback on your headset
-- Capture at your preferred quality with VR metadata intact
-- Download recorded or VOD content from Stripchat video pages
-- Use the on-player button for fast, one-click capture
-- Right-click any stream page to start recording instantly
+## How It Works
 
-## Trial & access
+1. Install the extension from the latest release.
+2. Open Stripchat VR and go to a live room or saved recording page.
+3. Start playback so the extension can detect the stream.
+4. Open the popup or use the on-page controls.
+5. Choose the quality or stream option you want.
+6. Record the live session or download the saved recording.
+7. Save the final MP4 file locally.
 
-SERP StripchatVR Downloader includes **3 free downloads** after signing in with your email. No credit card required. Once your trial is used, upgrade to a license for unlimited captures. Supports **Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex** browsers.
+## Step-by-Step Tutorial: How to Download Videos from StripchatVR
+
+1. Install StripchatVR Downloader from the latest GitHub release.
+2. Open Stripchat VR and sign in if the page requires account access.
+3. Visit the live room or saved VR page you want to keep.
+4. Let the player load fully and press play.
+5. Click the extension button or the on-page control.
+6. Review the qualities detected for that stream.
+7. For live sessions, start recording and stop it when the room is finished.
+8. For saved recordings, click download and wait for the MP4 export to complete.
+9. Open the finished file from your Downloads folder or move it to your preferred VR playback setup.
+
+## Supported Formats
+
+- Input: Stripchat VR live streams
+- Input: Stripchat VR saved recordings
+- Output: MP4
+
+Saved files use MP4 for easier offline playback. When Stripchat VR exposes useful VR playback data, the extension keeps those details to make local viewing more consistent.
+
+## Who It's For
+
+- Stripchat VR viewers who want to keep live immersive sessions
+- Users who want offline access to saved VR recordings
+- VR viewers who care about preserving playback-friendly metadata
+- People building a local archive of content they are allowed to keep
+- Anyone who wants a browser-based workflow instead of manual stream capture tools
+
+## Common Use Cases
+
+- Record a Stripchat VR live session for later playback
+- Download a saved VR recording from a model page
+- Keep local files for compatible headset playback
+- Preserve useful VR playback details when the source provides them
+- Save content before it rotates out or becomes unavailable
+
+## Troubleshooting
+
+**The extension is not detecting the stream**  
+Press play first and wait a few seconds so the media has time to initialize.
+
+**The page control is missing**  
+Open the extension popup directly. Some supported pages work better through the popup UI.
+
+**The saved file plays like a normal video**  
+That usually means the source did not expose VR-specific playback metadata for that stream.
+
+**The recording stopped early**  
+Check whether the live session ended or your internet connection dropped during capture.
+
+**The page requires login or paid access**  
+The extension only works on media you can already access in your active browser session.
+
+## Trial & Access
+
+- Includes **3 free captures** so you can test the workflow first
+- Email sign-in uses secure one-time password verification
+- No credit card required for the trial
+- Unlimited captures are available with a paid license
+
+Start here: [https://serp.ly/stripchat-vr-video-downloader](https://serp.ly/stripchat-vr-video-downloader)
+
+## Installation Instructions
+
+1. Open the latest release page:
+   [https://github.com/serpapps/stripchat-vr-downloader/releases/latest](https://github.com/serpapps/stripchat-vr-downloader/releases/latest)
+2. Download the extension build for your browser.
+3. Install the extension.
+4. Open Stripchat VR and navigate to a live room or saved recording.
+5. Use the extension controls to start recording or downloading.
 
 ## FAQ
 
-**How do I record a live stream?**
-Open a model page on Stripchat VR while live. Click Start in the popup or the player button. Choose quality, record, and click Stop when done.
+**Can I record Stripchat VR live streams?**  
+Yes. Active Stripchat VR rooms can be recorded while they are streaming.
 
-**Does this preserve VR metadata?**
-Yes. VR camera settings are detected automatically and included in the filename. A VR badge in the popup shows configuration details.
+**Can I download saved recordings too?**  
+Yes. The extension supports saved Stripchat VR videos on supported pages.
 
-**What format are downloads saved as?**
-Standard MP4 -- compatible with any device, media player, or VR headset.
+**Does it preserve VR metadata?**  
+Yes, when the source exposes compatible VR playback details.
 
-**Can I download recorded/VOD content?**
-Yes. Both live stream capture and VOD downloads from Stripchat video pages are supported.
+**What file format do downloads use?**  
+Videos are saved as MP4 files.
 
-**How many free downloads do I get?**
-3 free downloads after signing in with your email. Purchase a license for unlimited captures.
+**Where are videos saved?**  
+They are saved to your default Downloads location, typically inside a STRIPCHATVR subfolder.
 
-**Which browsers are supported?**
-Chrome, Edge, Brave, Opera, Firefox, Whale, and Yandex.
+**Do I need extra software?**  
+No. Everything runs through the browser extension.
 
-## Notes (important)
+## Notes
 
-- An active internet connection is required during capture.
-- Stream quality depends on the source broadcast settings. VR metadata availability depends on the model's camera configuration.
-- Users are responsible for ensuring they have the right to download content. This extension is intended for downloading content you own or have permission to download.
+- Only download content you own or have explicit permission to save
+- An internet connection is required for live capture and downloads
+- Live recording only works while the broadcaster is actively streaming
+- Some pages may require account access or paid access
+- VR metadata preservation depends on what Stripchat VR exposes for that stream
 
-## Get it
+## About StripchatVR
 
-[**SERP StripchatVR Downloader — Download now**](https://serp.cc/VDM-stripchat-vr-video-downloader)
+Stripchat VR is built around immersive live and recorded video. That makes offline saving more complex than ordinary video platforms because playback details matter once the file leaves the site. StripchatVR Downloader was built to simplify that workflow inside the browser for users who already have legitimate access to the content.
