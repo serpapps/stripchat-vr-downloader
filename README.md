@@ -140,22 +140,22 @@ Start here: [https://serp.ly/stripchat-vr-video-downloader](https://serp.ly/stri
 
 ## FAQ
 
-**Can I record Stripchat VR live streams?**  
+**Can I record Stripchat VR live streams**  
 Yes. Active Stripchat VR rooms can be recorded while they are streaming.
 
-**Can I download saved recordings too?**  
+**Can I download saved recordings too**  
 Yes. The extension supports saved Stripchat VR videos on supported pages.
 
-**Does it preserve VR metadata?**  
+**Does it preserve VR metadata**  
 Yes, when the source exposes compatible VR playback details.
 
-**What file format do downloads use?**  
+**What file format do downloads use**  
 Videos are saved as MP4 files.
 
-**Where are videos saved?**  
+**Where are videos saved**  
 They are saved to your default Downloads location, typically inside a STRIPCHATVR subfolder.
 
-**Do I need extra software?**  
+**Do I need extra software**  
 No. Everything runs through the browser extension.
 
 ## Notes
