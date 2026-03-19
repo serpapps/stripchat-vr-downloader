@@ -12,15 +12,15 @@ StripchatVR Downloader is a browser extension built for immersive video workflow
 
 ## Links
 
-- 🚀 Get it here: [StripchatVR Downloader](https://serp.ly/stripchat-vr-video-downloader)
-- 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/stripchat-vr-downloader/releases/latest)
-- ❓ Help center: [SERP Help](https://help.serp.co/en/)
-- 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/stripchat-vr-downloader/issues)
-- 💡 Request features: [Feature Requests](https://github.com/serpapps/stripchat-vr-downloader/issues)
+- ðŸš€ Get it here: [StripchatVR Downloader](https://serp.ly/stripchat-vr-video-downloader)
+- ðŸ†• Latest release: [GitHub Releases](https://github.com/serpapps/stripchat-vr-downloader/releases/latest)
+- â“ Help center: [SERP Help](https://help.serp.co/en/)
+- ðŸ› Report bugs: [GitHub Issues](https://github.com/serpapps/stripchat-vr-downloader/issues)
+- ðŸ’¡ Request features: [Feature Requests](https://github.com/serpapps/stripchat-vr-downloader/issues)
 
 ## Preview
 
-![StripchatVR Downloader workflow preview](assets/workflow-preview.svg)
+![StripchatVR Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
